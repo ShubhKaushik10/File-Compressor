@@ -1,7 +1,3 @@
-/* 
-	Author : Samyak Jain
-	Created on : 30 June 2020
-*/
 *{
     background-color:  rgba(243, 239, 239, 0.787);
     color: rgb(3, 5, 87);
@@ -69,12 +65,7 @@ h3{
 #text4{
     font-size: small;
 }
-/* #encode{
-    background-color: rgb(97, 153, 97);
-} */
-/* #decode{
-    background-color: rgb(172, 75, 75);
-} */
+
 #encode:disabled{
     background-color: rgb(182, 179, 179);
 }
